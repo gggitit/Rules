@@ -25556,6 +25556,8 @@ DOMAIN-SUFFIX,guzaosf.com,DIRECT
 DOMAIN-SUFFIX,guzhangting.com,DIRECT
 DOMAIN-SUFFIX,guzhifengds.com,DIRECT
 DOMAIN-SUFFIX,guziyy.com,DIRECT
+DOMAIN-SUFFIX,guzzoni-apple-com.v.aaplimg.com,DIRECT
+DOMAIN-SUFFIX,guzzoni.apple.com,DIRECT
 DOMAIN-SUFFIX,gvacdn.com,DIRECT
 DOMAIN-SUFFIX,gvi-tech.com,DIRECT
 DOMAIN-SUFFIX,gvlocalization.com,DIRECT
