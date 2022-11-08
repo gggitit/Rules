@@ -1,13 +1,13 @@
 
 name: 喜马拉雅去广告
-desc: 喜马拉雅去广告, @ https://github.com/ddgksf2013/Cuttlefish/blob/master/Rewrite/AdBlock/Ximalaya.conf
+desc: 喜马拉雅去广告, @ https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Rewrite/AdBlock/Ximalaya.conf
 
 http:
   mitm:
     - "*.xima*.*"
     - ".xmcdn.*"
     
-  rewrite:
+  url-rewrite:
     - ^https?:\/\/.*\.xima.*\.com\/discovery-feed\/focus\/queryF - reject
     - ^https?:\/\/.*\.xima.*\.com\/mobile-playpage\/view\/ - reject
     - ^https?:\/\/.*\.xima.*\.com\/chaos-notice-web\/v1\/message\/preview\/list - reject
@@ -25,3 +25,23 @@ http:
     - ^https?:\/\/.*\.xima.*\.com\/guideWord - reject
     - ^https?:\/\/.*\.xima.*\.com\/api\/v\d\/adRealTime - reject
     - ^https?:\/\/.*\.xima.*\.com\/ting\/(loading|feed|home)? - reject
+  script:
+    - match: ^https?:\/\/.*\.xima.*\.com\/discovery-feed\/v\d\/mix
+      name: xmly_json
+      type: response
+      require-body: true
+      timeout: 30
+    - match: ^https?:\/\/.*\.xima.*\.com\/discovery-category\/v\d/category
+      name: xmly_json
+      type: response
+      require-body: true
+      timeout: 30
+    - match: ^https?:\/\/.*\.xima.*\.com\/mobile-user\/v\d\/homePage
+      name: xmly_json
+      type: response
+      require-body: true
+      timeout: 30
+script-providers:
+  xmly_json:
+    url: https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Script/xmly_json.js
+    interval: 86400
