@@ -10758,6 +10758,7 @@ DOMAIN-SUFFIX,bearyboard.com,DIRECT
 DOMAIN-SUFFIX,bearychat.com,DIRECT
 DOMAIN-SUFFIX,beasure.com,DIRECT
 DOMAIN-SUFFIX,beats-digital.com,DIRECT
+DOMAIN-SUFFIX,beatsbydre.com,DIRECT
 DOMAIN-SUFFIX,beatu.net,DIRECT
 DOMAIN-SUFFIX,beautifullinux.com,DIRECT
 DOMAIN-SUFFIX,beautifulzzzz.com,DIRECT
