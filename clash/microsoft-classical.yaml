@@ -1,9 +1,9 @@
 payload:
-  - DOMAIN,github-cloud.s3.amazonaws.com
   - PROCESS-NAME,onedriveupdater
-  - DOMAIN-KEYWORD,1drv
-  - DOMAIN-KEYWORD,skydrive
-  - DOMAIN-KEYWORD,onedrive
-  - DOMAIN,vsmarketplacebadge.apphb.com
-  - DOMAIN-KEYWORD,microsoft
   - PROCESS-NAME,onedrive
+  - DOMAIN,github-cloud.s3.amazonaws.com
+  - DOMAIN-KEYWORD,onedrive
+  - DOMAIN-KEYWORD,skydrive
+  - DOMAIN-KEYWORD,1drv
+  - DOMAIN-KEYWORD,microsoft
+  - DOMAIN,vsmarketplacebadge.apphb.com
