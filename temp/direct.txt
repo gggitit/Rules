@@ -12889,6 +12889,7 @@ DOMAIN-SUFFIX,capitalcloud.net,DIRECT
 DOMAIN-SUFFIX,capitalonline.net,DIRECT
 DOMAIN-SUFFIX,capjoy.com,DIRECT
 DOMAIN-SUFFIX,capsuleshanghai.com,DIRECT
+DOMAIN-SUFFIX,captive.apple.com,DIRECT
 DOMAIN-SUFFIX,capvision.com,DIRECT
 DOMAIN-SUFFIX,capwhale.com,DIRECT
 DOMAIN-SUFFIX,car0575.com,DIRECT
@@ -16663,6 +16664,7 @@ DOMAIN-SUFFIX,congrongfund.com,DIRECT
 DOMAIN-SUFFIX,congyicn.com,DIRECT
 DOMAIN-SUFFIX,congzao.com,DIRECT
 DOMAIN-SUFFIX,congzhi.com,DIRECT
+DOMAIN-SUFFIX,connectivitycheck.gstatic.com,DIRECT
 DOMAIN-SUFFIX,connector-systems.com,DIRECT
 DOMAIN-SUFFIX,conoha.vip,DIRECT
 DOMAIN-SUFFIX,conpak.com.hk,DIRECT
