@@ -91,6 +91,7 @@ DOMAIN,connectivitycheck.gstatic.com,DIRECT
 DOMAIN,content.googleadapis.com,DIRECT
 DOMAIN,corp.google.com,DIRECT
 DOMAIN,corp.googleapis.com,DIRECT
+DOMAIN,cp.cloudflare.com,DIRECT
 DOMAIN,crashlyticsreports-pa.googleapis.com,DIRECT
 DOMAIN,crl-lb.apple.com.akadns.net,DIRECT
 DOMAIN,crl.alphassl.com,DIRECT
@@ -103,6 +104,7 @@ DOMAIN,cstat.cdn-apple.com,DIRECT
 DOMAIN,ctldl.windowsupdate.com,DIRECT
 DOMAIN,dartsearch-cn.net,DIRECT
 DOMAIN,dd-cdn.origin-apple.com.akadns.net,DIRECT
+DOMAIN,detectportal.firefox.com,DIRECT
 DOMAIN,developer.microsoft.com,DIRECT
 DOMAIN,dg-meta.video.google.com,DIRECT
 DOMAIN,discussionschinese.apple.com,DIRECT
