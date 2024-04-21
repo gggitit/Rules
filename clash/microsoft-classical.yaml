@@ -1,8 +1,8 @@
 payload:
-  - PROCESS-NAME,OneDrive
-  - DOMAIN-KEYWORD,skydrive
   - DOMAIN,vsmarketplacebadge.apphb.com
-  - DOMAIN-KEYWORD,1drv
-  - PROCESS-NAME,OneDriveUpdater
-  - DOMAIN-KEYWORD,onedrive
   - DOMAIN-KEYWORD,microsoft
+  - DOMAIN-KEYWORD,onedrive
+  - DOMAIN-KEYWORD,skydrive
+  - PROCESS-NAME,OneDrive
+  - PROCESS-NAME,OneDriveUpdater
+  - DOMAIN-KEYWORD,1drv
