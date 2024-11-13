@@ -40860,6 +40860,7 @@ DOMAIN-SUFFIX,icloud-cdn.icloud.com.akadns.net,DIRECT
 DOMAIN-SUFFIX,icloud-content.com,DIRECT
 DOMAIN-SUFFIX,icloud-isupport.com,DIRECT
 DOMAIN-SUFFIX,icloud-power.com,DIRECT
+DOMAIN-SUFFIX,icloud-sandbox.com,DIRECT
 DOMAIN-SUFFIX,icloud.cdn-apple.com,DIRECT
 DOMAIN-SUFFIX,icloud.ch,DIRECT
 DOMAIN-SUFFIX,icloud.com,DIRECT
