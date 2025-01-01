@@ -2409,6 +2409,7 @@ DOMAIN-SUFFIX,greenvpn.net,PROXY
 DOMAIN-SUFFIX,greenvpn.org,PROXY
 DOMAIN-SUFFIX,grindr.com,PROXY
 DOMAIN-SUFFIX,grotty-monday.com,PROXY
+DOMAIN-SUFFIX,ground.news,PROXY
 DOMAIN-SUFFIX,groups.google.cn,PROXY
 DOMAIN-SUFFIX,grow.google,PROXY
 DOMAIN-SUFFIX,gs-discuss.com,PROXY
@@ -2501,6 +2502,7 @@ DOMAIN-SUFFIX,hentaitube.tv,PROXY
 DOMAIN-SUFFIX,hentaivideoworld.com,PROXY
 DOMAIN-SUFFIX,heqinglian.net,PROXY
 DOMAIN-SUFFIX,heritage.org,PROXY
+DOMAIN-SUFFIX,herokuapp.com,PROXY
 DOMAIN-SUFFIX,heungkongdiscuss.com,PROXY
 DOMAIN-SUFFIX,hexieshe.com,PROXY
 DOMAIN-SUFFIX,hexieshe.xyz,PROXY
@@ -2653,6 +2655,7 @@ DOMAIN-SUFFIX,hougaige.com,PROXY
 DOMAIN-SUFFIX,howtoforge.com,PROXY
 DOMAIN-SUFFIX,hoxx.com,PROXY
 DOMAIN-SUFFIX,hpa.gov.tw,PROXY
+DOMAIN-SUFFIX,hpjav.com,PROXY
 DOMAIN-SUFFIX,hqcdp.org,PROXY
 DOMAIN-SUFFIX,hqjapanesesex.com,PROXY
 DOMAIN-SUFFIX,hqmovies.com,PROXY
@@ -2740,6 +2743,7 @@ DOMAIN-SUFFIX,iamtopone.com,PROXY
 DOMAIN-SUFFIX,iask.bz,PROXY
 DOMAIN-SUFFIX,iask.ca,PROXY
 DOMAIN-SUFFIX,iav19.com,PROXY
+DOMAIN-SUFFIX,iavian.net,PROXY
 DOMAIN-SUFFIX,ibiblio.org,PROXY
 DOMAIN-SUFFIX,ibit.am,PROXY
 DOMAIN-SUFFIX,iblist.com,PROXY
@@ -4008,6 +4012,7 @@ DOMAIN-SUFFIX,pbxes.org,PROXY
 DOMAIN-SUFFIX,pcanywhere.net,PROXY
 DOMAIN-SUFFIX,pcc.gov.tw,PROXY
 DOMAIN-SUFFIX,pcdvd.com.tw,PROXY
+DOMAIN-SUFFIX,pcgamestorrents.com,PROXY
 DOMAIN-SUFFIX,pchome.com.tw,PROXY
 DOMAIN-SUFFIX,pcij.org,PROXY
 DOMAIN-SUFFIX,pcstore.com.tw,PROXY
