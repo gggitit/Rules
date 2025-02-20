@@ -93,6 +93,7 @@ DOMAIN-SUFFIX,5aimiku.com,PROXY
 DOMAIN-SUFFIX,5i01.com,PROXY
 DOMAIN-SUFFIX,5isotoi5.org,PROXY
 DOMAIN-SUFFIX,5maodang.com,PROXY
+DOMAIN-SUFFIX,611study.icu,PROXY
 DOMAIN-SUFFIX,63i.com,PROXY
 DOMAIN-SUFFIX,64museum.org,PROXY
 DOMAIN-SUFFIX,64tianwang.com,PROXY
@@ -3752,6 +3753,7 @@ DOMAIN-SUFFIX,news.singtao.ca,PROXY
 DOMAIN-SUFFIX,news.tvbs.com.tw,PROXY
 DOMAIN-SUFFIX,news.yahoo.com,PROXY
 DOMAIN-SUFFIX,news.ycombinator.com,PROXY
+DOMAIN-SUFFIX,news1.kr,PROXY
 DOMAIN-SUFFIX,news100.com.tw,PROXY
 DOMAIN-SUFFIX,newsancai.com,PROXY
 DOMAIN-SUFFIX,newsblur.com,PROXY
@@ -4121,6 +4123,7 @@ DOMAIN-SUFFIX,picidae.net,PROXY
 DOMAIN-SUFFIX,picturedip.com,PROXY
 DOMAIN-SUFFIX,pictures.playboy.com,PROXY
 DOMAIN-SUFFIX,picturesocial.com,PROXY
+DOMAIN-SUFFIX,picuki.com,PROXY
 DOMAIN-SUFFIX,pigav.com,PROXY
 DOMAIN-SUFFIX,pimg.tw,PROXY
 DOMAIN-SUFFIX,pin-cong.com,PROXY
@@ -4892,7 +4895,6 @@ DOMAIN-SUFFIX,streema.com,PROXY
 DOMAIN-SUFFIX,strikingly.com,PROXY
 DOMAIN-SUFFIX,strongvpn.com,PROXY
 DOMAIN-SUFFIX,strongwindpress.com,PROXY
-DOMAIN-SUFFIX,student.tw,PROXY
 DOMAIN-SUFFIX,studentsforafreetibet.org,PROXY
 DOMAIN-SUFFIX,stumbleupon.com,PROXY
 DOMAIN-SUFFIX,stupidvideos.com,PROXY
