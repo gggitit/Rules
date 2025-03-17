@@ -324,6 +324,7 @@ DOMAIN-SUFFIX,aofriend.com,PROXY
 DOMAIN-SUFFIX,aofriend.com.au,PROXY
 DOMAIN-SUFFIX,aojiao.org,PROXY
 DOMAIN-SUFFIX,aolchannels.aol.com,PROXY
+DOMAIN-SUFFIX,aomedia.org,PROXY
 DOMAIN-SUFFIX,aomiwang.com,PROXY
 DOMAIN-SUFFIX,apartmentratings.com,PROXY
 DOMAIN-SUFFIX,apartments.com,PROXY
@@ -4351,7 +4352,7 @@ DOMAIN-SUFFIX,powercx.com,PROXY
 DOMAIN-SUFFIX,powerphoto.org,PROXY
 DOMAIN-SUFFIX,ppy.sh,PROXY
 DOMAIN-SUFFIX,prayforchina.net,PROXY
-DOMAIN-SUFFIX,premeforwindows7.com,PROXY
+DOMAIN-SUFFIX,prcleader.org,PROXY
 DOMAIN-SUFFIX,premproxy.com,PROXY
 DOMAIN-SUFFIX,presentation.new,PROXY
 DOMAIN-SUFFIX,presentationzen.com,PROXY
