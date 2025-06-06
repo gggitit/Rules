@@ -14008,6 +14008,7 @@ DOMAIN-SUFFIX,asthis.net,DIRECT
 DOMAIN-SUFFIX,astipaint.com,DIRECT
 DOMAIN-SUFFIX,astra-biotech.com,DIRECT
 DOMAIN-SUFFIX,astraintel.com,DIRECT
+DOMAIN-SUFFIX,astral-vector.com,DIRECT
 DOMAIN-SUFFIX,astroai-in.com,DIRECT
 DOMAIN-SUFFIX,astroaio.com,DIRECT
 DOMAIN-SUFFIX,astron.ac,DIRECT
