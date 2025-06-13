@@ -1261,6 +1261,7 @@ DOMAIN-SUFFIX,counter.social,PROXY
 DOMAIN-SUFFIX,coursehero.com,PROXY
 DOMAIN-SUFFIX,coze.com,PROXY
 DOMAIN-SUFFIX,cpj.org,PROXY
+DOMAIN-SUFFIX,cpu-monkey.com,PROXY
 DOMAIN-SUFFIX,cq99.us,PROXY
 DOMAIN-SUFFIX,crackle.com,PROXY
 DOMAIN-SUFFIX,crazypool.org,PROXY
@@ -2847,7 +2848,6 @@ DOMAIN-SUFFIX,hutong9.net,PROXY
 DOMAIN-SUFFIX,huyandex.com,PROXY
 DOMAIN-SUFFIX,hwadzan.tw,PROXY
 DOMAIN-SUFFIX,hwayue.org.tw,PROXY
-DOMAIN-SUFFIX,hwinfo.com,PROXY
 DOMAIN-SUFFIX,hxwk.org,PROXY
 DOMAIN-SUFFIX,hxwq.org,PROXY
 DOMAIN-SUFFIX,hybrid-analysis.com,PROXY
@@ -3357,6 +3357,7 @@ DOMAIN-SUFFIX,line.me,PROXY
 DOMAIN-SUFFIX,line.naver.jp,PROXY
 DOMAIN-SUFFIX,linear-abematv.akamaized.net,PROXY
 DOMAIN-SUFFIX,linglingfa.com,PROXY
+DOMAIN-SUFFIX,lingualeo.com,PROXY
 DOMAIN-SUFFIX,lingvodics.com,PROXY
 DOMAIN-SUFFIX,link-o-rama.com,PROXY
 DOMAIN-SUFFIX,linkedin.com,PROXY
