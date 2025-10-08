@@ -4476,6 +4476,7 @@ DOMAIN-SUFFIX,solana.com,PROXY
 DOMAIN-SUFFIX,solarsystem.nasa.gov,PROXY
 DOMAIN-SUFFIX,solidaritetibet.org,PROXY
 DOMAIN-SUFFIX,solidfiles.com,PROXY
+DOMAIN-SUFFIX,solscan.io,PROXY
 DOMAIN-SUFFIX,solv.finance,PROXY
 DOMAIN-SUFFIX,somee.com,PROXY
 DOMAIN-SUFFIX,songjianjun.com,PROXY
@@ -5318,6 +5319,7 @@ DOMAIN-SUFFIX,vijayatemple.org,PROXY
 DOMAIN-SUFFIX,vilanet.me,PROXY
 DOMAIN-SUFFIX,vilavpn.com,PROXY
 DOMAIN-SUFFIX,vimeo.com,PROXY
+DOMAIN-SUFFIX,vimeocdn.com,PROXY
 DOMAIN-SUFFIX,vimperator.org,PROXY
 DOMAIN-SUFFIX,vincnd.com,PROXY
 DOMAIN-SUFFIX,vine.co,PROXY
