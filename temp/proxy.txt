@@ -3011,6 +3011,7 @@ DOMAIN-SUFFIX,rutracker.net,PROXY
 DOMAIN-SUFFIX,rutracker.org,PROXY
 DOMAIN-SUFFIX,rxhj.net,PROXY
 DOMAIN-SUFFIX,s-cute.com,PROXY
+DOMAIN-SUFFIX,s.rmimg.com,PROXY
 DOMAIN-SUFFIX,s.yimg.com,PROXY
 DOMAIN-SUFFIX,s3-ap-northeast-1.amazonaws.com,PROXY
 DOMAIN-SUFFIX,s3-ap-northeast-2.amazonaws.com,PROXY
@@ -4046,6 +4047,7 @@ DOMAIN-SUFFIX,xjtravelguide.com,PROXY
 DOMAIN-SUFFIX,xm.com,PROXY
 DOMAIN-SUFFIX,xml-training-guide.com,PROXY
 DOMAIN-SUFFIX,xn--11xs86f.icu,PROXY
+DOMAIN-SUFFIX,xn--1jqvh729avzfcy2d8ummib.com,PROXY
 DOMAIN-SUFFIX,xn--4gq171p.com,PROXY
 DOMAIN-SUFFIX,xn--9iqy04a7fi01l.com,PROXY
 DOMAIN-SUFFIX,xn--9pr62r24a.com,PROXY
