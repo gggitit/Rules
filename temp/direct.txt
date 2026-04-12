@@ -323,6 +323,7 @@ DOMAIN,ksn-verdict-geo.kaspersky-labs.com,DIRECT
 DOMAIN,ksn-verdict.geoksn.kaspersky.com,DIRECT
 DOMAIN,l2-uberproxy.corp.google.com,DIRECT
 DOMAIN,learn.microsoft.com,DIRECT
+DOMAIN,local.adguard.org,DIRECT
 DOMAIN,logger-dev.corp.google.com,DIRECT
 DOMAIN,logger.corp.google.com,DIRECT
 DOMAIN,login.corp.google.com,DIRECT
@@ -32996,6 +32997,7 @@ DOMAIN-SUFFIX,duba.net,DIRECT
 DOMAIN-SUFFIX,dubairen.com,DIRECT
 DOMAIN-SUFFIX,dubao123.com,DIRECT
 DOMAIN-SUFFIX,dubbing.tech,DIRECT
+DOMAIN-SUFFIX,dubbingx.com,DIRECT
 DOMAIN-SUFFIX,dubbo.io,DIRECT
 DOMAIN-SUFFIX,duble.live,DIRECT
 DOMAIN-SUFFIX,dubola.com,DIRECT
@@ -62043,6 +62045,7 @@ DOMAIN-SUFFIX,kirincloud.net,DIRECT
 DOMAIN-SUFFIX,kirinmach.com,DIRECT
 DOMAIN-SUFFIX,kirinvm.com,DIRECT
 DOMAIN-SUFFIX,kirkcloud.com,DIRECT
+DOMAIN-SUFFIX,kis.v2.scr.kaspersky-labs.com,DIRECT
 DOMAIN-SUFFIX,kiscoca.com,DIRECT
 DOMAIN-SUFFIX,kisdee.com,DIRECT
 DOMAIN-SUFFIX,kisence.com,DIRECT
@@ -69826,6 +69829,7 @@ DOMAIN-SUFFIX,miaoche.com,DIRECT
 DOMAIN-SUFFIX,miaocode.com,DIRECT
 DOMAIN-SUFFIX,miaodiyun.com,DIRECT
 DOMAIN-SUFFIX,miaodongbar.com,DIRECT
+DOMAIN-SUFFIX,miaodongshenghuo.com,DIRECT
 DOMAIN-SUFFIX,miaogongzi.cc,DIRECT
 DOMAIN-SUFFIX,miaogongzi.net,DIRECT
 DOMAIN-SUFFIX,miaohuiyanyi.com,DIRECT
@@ -80840,6 +80844,7 @@ DOMAIN-SUFFIX,quasarchs.com,DIRECT
 DOMAIN-SUFFIX,quaspa.com,DIRECT
 DOMAIN-SUFFIX,quazero.com,DIRECT
 DOMAIN-SUFFIX,quba360.com,DIRECT
+DOMAIN-SUFFIX,qubang.cc,DIRECT
 DOMAIN-SUFFIX,qubaobei.com,DIRECT
 DOMAIN-SUFFIX,qubiankeji.com,DIRECT
 DOMAIN-SUFFIX,qucai.com,DIRECT
@@ -96251,6 +96256,7 @@ DOMAIN-SUFFIX,tsfqw.com,DIRECT
 DOMAIN-SUFFIX,tsg-online.net,DIRECT
 DOMAIN-SUFFIX,tsggx.com,DIRECT
 DOMAIN-SUFFIX,tsgks.com,DIRECT
+DOMAIN-SUFFIX,tsgyun.com,DIRECT
 DOMAIN-SUFFIX,tshaisen.com,DIRECT
 DOMAIN-SUFFIX,tshe.com,DIRECT
 DOMAIN-SUFFIX,tshe.me,DIRECT
@@ -111348,6 +111354,7 @@ DOMAIN-SUFFIX,yoodb.com,DIRECT
 DOMAIN-SUFFIX,yooek.com,DIRECT
 DOMAIN-SUFFIX,yoofh.com,DIRECT
 DOMAIN-SUFFIX,yoogene.com,DIRECT
+DOMAIN-SUFFIX,yoohe.net,DIRECT
 DOMAIN-SUFFIX,yoohouse.com,DIRECT
 DOMAIN-SUFFIX,yoojia.com,DIRECT
 DOMAIN-SUFFIX,yoojing.com,DIRECT
