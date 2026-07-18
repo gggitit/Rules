@@ -30,6 +30,7 @@ DOMAIN,aod-ssl.itunes.apple.com,DIRECT
 DOMAIN,aod.itunes.apple.com,DIRECT
 DOMAIN,api-edge.apps.apple.com,DIRECT
 DOMAIN,api.alibabacloud.com,DIRECT
+DOMAIN,api.blipsandchitz.me,DIRECT
 DOMAIN,app-analytics-services.com,DIRECT
 DOMAIN,app-measurement-cn.com,DIRECT
 DOMAIN,app-measurement.com,DIRECT
@@ -28739,6 +28740,7 @@ DOMAIN-SUFFIX,dcyjc.com,DIRECT
 DOMAIN-SUFFIX,dcyz.com,DIRECT
 DOMAIN-SUFFIX,dcyzq.com,DIRECT
 DOMAIN-SUFFIX,dczcsc.com,DIRECT
+DOMAIN-SUFFIX,dczcy.com,DIRECT
 DOMAIN-SUFFIX,dczkj.com,DIRECT
 DOMAIN-SUFFIX,dczy168.com,DIRECT
 DOMAIN-SUFFIX,dd-advisor.com,DIRECT
@@ -29723,6 +29725,7 @@ DOMAIN-SUFFIX,didibuluo.com,DIRECT
 DOMAIN-SUFFIX,didichuxing.com,DIRECT
 DOMAIN-SUFFIX,dididapiao.com,DIRECT
 DOMAIN-SUFFIX,dididi88.com,DIRECT
+DOMAIN-SUFFIX,didifinance.com,DIRECT
 DOMAIN-SUFFIX,didiglobal.com,DIRECT
 DOMAIN-SUFFIX,didimobility.com,DIRECT
 DOMAIN-SUFFIX,didiopenapi.com,DIRECT
@@ -36565,6 +36568,7 @@ DOMAIN-SUFFIX,fubonplastic.com,DIRECT
 DOMAIN-SUFFIX,fuca-china.com,DIRECT
 DOMAIN-SUFFIX,fucantec.com,DIRECT
 DOMAIN-SUFFIX,fuchaipower.com,DIRECT
+DOMAIN-SUFFIX,fuchenkj.com,DIRECT
 DOMAIN-SUFFIX,fuchuangyu.com,DIRECT
 DOMAIN-SUFFIX,fucnm.com,DIRECT
 DOMAIN-SUFFIX,fucol.club,DIRECT
@@ -47804,6 +47808,7 @@ DOMAIN-SUFFIX,hrpackage.com,DIRECT
 DOMAIN-SUFFIX,hrs100.com,DIRECT
 DOMAIN-SUFFIX,hrsalon.org,DIRECT
 DOMAIN-SUFFIX,hrsay.com,DIRECT
+DOMAIN-SUFFIX,hrsecn.com,DIRECT
 DOMAIN-SUFFIX,hrsee.com,DIRECT
 DOMAIN-SUFFIX,hrsel.com,DIRECT
 DOMAIN-SUFFIX,hrsoft-china.com,DIRECT
@@ -54484,6 +54489,7 @@ DOMAIN-SUFFIX,jieshu.me,DIRECT
 DOMAIN-SUFFIX,jieshui8.com,DIRECT
 DOMAIN-SUFFIX,jieshuitech.com,DIRECT
 DOMAIN-SUFFIX,jieshuwang.com,DIRECT
+DOMAIN-SUFFIX,jietianz.com,DIRECT
 DOMAIN-SUFFIX,jietu365.com,DIRECT
 DOMAIN-SUFFIX,jietuhb.com,DIRECT
 DOMAIN-SUFFIX,jietuosh.com,DIRECT
@@ -80272,6 +80278,7 @@ DOMAIN-SUFFIX,sdsenrong.com,DIRECT
 DOMAIN-SUFFIX,sdseshealth.com,DIRECT
 DOMAIN-SUFFIX,sdsfjy.com,DIRECT
 DOMAIN-SUFFIX,sdshangya.com,DIRECT
+DOMAIN-SUFFIX,sdshdc.com,DIRECT
 DOMAIN-SUFFIX,sdshgk.com,DIRECT
 DOMAIN-SUFFIX,sdshihua.com,DIRECT
 DOMAIN-SUFFIX,sdshitu.com,DIRECT
@@ -81962,6 +81969,7 @@ DOMAIN-SUFFIX,shicaidai.com,DIRECT
 DOMAIN-SUFFIX,shicaizhanlan.com,DIRECT
 DOMAIN-SUFFIX,shicehao.com,DIRECT
 DOMAIN-SUFFIX,shichangbu.com,DIRECT
+DOMAIN-SUFFIX,shicheng6.com,DIRECT
 DOMAIN-SUFFIX,shichengbao.com,DIRECT
 DOMAIN-SUFFIX,shichengyi.com,DIRECT
 DOMAIN-SUFFIX,shichuangsj.com,DIRECT
@@ -92414,6 +92422,7 @@ DOMAIN-SUFFIX,ulikepic.com,DIRECT
 DOMAIN-SUFFIX,ulikestatic.com,DIRECT
 DOMAIN-SUFFIX,ulinix.com,DIRECT
 DOMAIN-SUFFIX,ulinix.tv,DIRECT
+DOMAIN-SUFFIX,ulongemg.com,DIRECT
 DOMAIN-SUFFIX,ulpay.com,DIRECT
 DOMAIN-SUFFIX,ultracachenode.com,DIRECT
 DOMAIN-SUFFIX,ultraeda.com,DIRECT
@@ -107202,6 +107211,7 @@ DOMAIN-SUFFIX,yxilogistics.com,DIRECT
 DOMAIN-SUFFIX,yximgs.com,DIRECT
 DOMAIN-SUFFIX,yxin18.com,DIRECT
 DOMAIN-SUFFIX,yxinbao.com,DIRECT
+DOMAIN-SUFFIX,yxingfan.com,DIRECT
 DOMAIN-SUFFIX,yxintent.com,DIRECT
 DOMAIN-SUFFIX,yxit.net,DIRECT
 DOMAIN-SUFFIX,yxixy.com,DIRECT
